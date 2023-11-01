@@ -20,6 +20,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 14 Abance para el módulo de actores. |
+| Nombre  |  Práctica 14 Avance para el módulo de actores. |
 | Descripción  | En esta práctica se hizo un avance para poder visualizar el reparto de actores que participaron en cada pelicula, dicha vista se mostrará debajo de la descrcipción en el apartado del poster. |
 |  Fecha de Carga | 01/11/23  |
